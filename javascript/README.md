@@ -844,8 +844,8 @@
     // good
     var once = [
       'upon',
-      'a', '
-      time'
+      'a', 
+      'time'
     ]
     ```
 
